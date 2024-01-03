@@ -1,0 +1,32 @@
+body {
+    font-family: emoji;
+}
+
+.card {
+    width: 57vh;
+    height: 41vh;
+    background-color: #1DE592;
+    border-radius: 16px;
+    margin: 60px auto;
+    padding: 59px 64px;
+    border: none;
+}
+
+.card .heading {
+    font-size: 30px;
+    font-weight: 800;
+    font-size: 227%;
+}
+
+.card .para {
+    font-weight: 500;
+    font-size: 111%;
+}
+    .card .btn {
+        padding: 12px;
+        background: #fff;
+        border: none;
+        border-radius: 29px;
+        font-weight: 700;
+        width: 50%;
+    }
