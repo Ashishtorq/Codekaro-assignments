@@ -1,0 +1,38 @@
+body {}
+
+.card {
+    border: 2px solid #DCDDE1;
+    width: 21vw;
+    height: 42vh;
+    margin: 60px auto;
+    padding: 16px 20px;
+    border-radius: 15px;
+}
+
+.card .image .img1 {
+    width: 20%;
+    border-radius: 55%;
+    /* height: 90%; */
+    margin-right: 20%;
+}
+
+.card .image .img2 {
+    width: 20%;
+    border-radius: 55%;
+    /* height: 90%; */
+    /* margin-right: 20%; */
+}
+
+.card .foot {
+    border-top: 2px solid #DCDDE1;
+    margin-top: 18%;
+    width: 21vw;
+    box-sizing: border-box;
+}
+
+.card .para {
+    color: #1C73E8;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
