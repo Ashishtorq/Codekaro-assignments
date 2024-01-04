@@ -1,0 +1,46 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.zomato {
+    width: 100vw;
+    /* height: 60vh; */
+    box-sizing: border-box;
+    position: relative;
+}
+
+.zomato img {
+    width: 94%;
+    margin: 0% 2%;
+    /* margin: 36px 146px; */
+}
+
+.zomato .text-content {
+    position: absolute;
+    top: 16%;
+    left: 37%;
+    text-align: center;
+    color: white;
+}
+
+
+.zomato .text-content .heading {
+    font-size: 92px;
+    font-family: cursive;
+    margin-bottom: auto;
+}
+
+.zomato .text-content .text {
+    font-size: larger;
+}
+
+.zomato .text-content .input {
+    width: 30rem;
+    text-align: center;
+    height: 2.5rem;
+    font-weight: bolder;
+    border-radius: 10px;
+    border: none;
+}
