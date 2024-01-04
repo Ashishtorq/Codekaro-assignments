@@ -1,0 +1,41 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.card {
+
+    width: 75vw;
+    height: 60vh;
+    margin: 60px auto;
+    position: relative;
+}
+
+
+.card .image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.card .content {
+    position: absolute;
+    top: 43%;
+    left: 4%;
+    margin: -53px 222px;
+    text-align: center;
+    color: white;
+}
+
+.card .btn {
+    background: white;
+    border: none;
+    border: none;
+    padding: 12px;
+    border-radius: 43px;
+    width: 155px;
+    font-weight: 700;
+    font-size: inherit;
+}
+.heading{
+    font-size: 48px;
+}
