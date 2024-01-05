@@ -19,28 +19,29 @@ body {
 
 .zomato .text-content {
     position: absolute;
-    top: 16%;
-    left: 37%;
+    top: 8%;
+    left: 19%;
     text-align: center;
     color: white;
 }
 
-
 .zomato .text-content .heading {
-    font-size: 92px;
+    font-size: 105px;
     font-family: cursive;
     margin-bottom: auto;
 }
 
 .zomato .text-content .text {
-    font-size: larger;
+    font-size: 45px;
 }
 
 .zomato .text-content .input {
-    width: 30rem;
+    width: 56rem;
     text-align: center;
-    height: 2.5rem;
+    height: 3.5rem;
     font-weight: bolder;
     border-radius: 10px;
     border: none;
+    font-size: large;
+    font-weight: 600;
 }
