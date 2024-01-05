@@ -47,6 +47,7 @@ body {
     border-radius: 16px;
     padding: 2px;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 .container .card .city-para {
@@ -73,4 +74,12 @@ body {
 }
 .text-rating .rating{
     margin: 10px;
+}
+
+/* footer */
+
+.footer{
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
 }
