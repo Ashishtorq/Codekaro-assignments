@@ -72,14 +72,22 @@ body {
     justify-content: space-between;
     align-items: stretch;
 }
-.text-rating .rating{
+
+.text-rating .rating {
     margin: 10px;
 }
 
 /* footer */
 
-.footer{
+.footer {
     width: 100vw;
     height: 50vh;
+    color: #fff;
     background-color: black;
+    border-top: 1px solid gray;
+}
+
+.footer .foot{
+    display: flex;
+    justify-content: space-around;
 }
