@@ -32,6 +32,27 @@ body {
     color: grey;
 }
 
+.airbnb-world-logo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.bi-search::before {
+    content: "\f52a";
+    margin: -51px;
+    color: #c51433;
+}
+
+/* navbar 2 */
+.navbar2{
+    width: 100vw;
+    height: 10vh;
+    margin: auto;
+}
+.navbar2 .navbar2-images{
+    width: 150px;
+}
 /* container */
 
 .container .card {
@@ -87,7 +108,7 @@ body {
     border-top: 1px solid gray;
 }
 
-.footer .foot{
+.footer .foot {
     display: flex;
     justify-content: space-around;
 }
