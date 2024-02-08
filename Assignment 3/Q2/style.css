@@ -12,9 +12,11 @@ body {
 
 #card {
     /* border: 1px solid black; */
+    /* border-radius: 16px; */
     margin: 60px auto;
     width: 500px;
     height: 545px;
+    padding: 10px;
 }
 
 #user-profile {
